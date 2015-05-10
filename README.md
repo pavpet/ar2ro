@@ -1,2 +1,2 @@
 # ar2ro
-Convert arabic to roman numbers
+A simple python script that converts arabic to roman numbers
